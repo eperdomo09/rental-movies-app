@@ -1,0 +1,6 @@
+{
+  "apiGenre": "http://localhost:3900/vidly.com/api/genres",
+  "apiMovie": "http://localhost:3900/vidly.com/api/movies",
+  "apiUser": "http://localhost:3900/vidly.com/api/users",
+  "apiAuth": "http://localhost:3900/vidly.com/api/auth"
+}
